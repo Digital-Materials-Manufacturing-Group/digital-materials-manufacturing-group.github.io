@@ -42,8 +42,8 @@ The DMM Group investigates the synergistic intersection of continuum mechanics, 
 
 1. **Clone the repository**:
    ```bash
-   git clone git@github.com:Digital-Materials-Manufacturing-Group/dmmg.github.io.git
-   cd dmmg.github.io
+   git clone git@github.com:Digital-Materials-Manufacturing-Group/digital-materials-manufacturing-group.github.io.git
+   cd digital-materials-manufacturing-group.github.io
    ```
 
 2. **Install dependencies**:
