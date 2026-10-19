@@ -35,10 +35,13 @@ jobs:
           # If the repository is <username>.github.io, base is "/"
           # Otherwise (project repo), base is "/<repo-name>/"
           REPO_NAME="${{ github.event.repository.name }}"
-          if [[ "${{ github.repository }}" =~ \.github\.io$ ]]; then
-            echo "BASE_PATH=/" >> $GITHUB_ENV
+          if [ -z "$REPO_NAME" ]; then
+            REPO_NAME="${GITHUB_REPOSITORY##*/}"
+          fi
+          if [[ "${GITHUB_REPOSITORY}" =~ \.github\.io$ ]]; then
+            echo "BASE_PATH=/" >> "$GITHUB_ENV"
           else
-            echo "BASE_PATH=/${REPO_NAME}/" >> $GITHUB_ENV
+            echo "BASE_PATH=/${REPO_NAME}/" >> "$GITHUB_ENV"
           fi
 
       - name: Install dependencies
