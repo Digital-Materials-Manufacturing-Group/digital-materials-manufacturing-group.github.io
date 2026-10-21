@@ -53,7 +53,7 @@ function Index() {
 </div>
 <div className="p-space-sm bg-surface-paper rounded shadow-sm min-w-0 overflow-hidden">
 <span className="block font-headline-md text-headline-md text-accent-navy font-semibold">DIGITAL</span>
-<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">TWIN / THREADS</span>
+<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">TWINS / THREADS</span>
 </div>
 <div className="p-space-sm bg-surface-paper rounded shadow-sm min-w-0 overflow-hidden">
 <span className="block font-headline-md text-headline-md text-accent-navy font-semibold">MATERIAL</span>
