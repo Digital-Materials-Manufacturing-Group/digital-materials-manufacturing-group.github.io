@@ -43,7 +43,7 @@ function Index() {
             Synergistic Mechanics of Materials &amp; Digital Twins for Advanced Manufacturing
           </h1>
 <p className="font-body-lg text-body-lg text-text-secondary leading-relaxed">
-            Investigating microstructural evolution, structural integrity, crystal plasticity, and physics-informed digital twins during manufacturing and extreme in-service environments.
+            Predicting the structural integrity of metallic components by coupling experimental and computational mechanics to develop physics-informed digital twins and material passports for manufacturing and extreme in-service environments.
           </p>
 {/* Metrics / Sub-anchors */}
 <div className="grid grid-cols-1 sm:grid-cols-3 gap-space-sm pt-space-xs pb-space-xs">
@@ -52,12 +52,12 @@ function Index() {
 <span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">Active Thrusts</span>
 </div>
 <div className="p-space-sm bg-surface-paper rounded shadow-sm min-w-0 overflow-hidden">
-<span className="block font-headline-md text-headline-md text-accent-navy font-semibold">CPFE</span>
-<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">Crystal Plasticity</span>
+<span className="block font-headline-md text-headline-md text-accent-navy font-semibold">DIGITAL</span>
+<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">TWIN / THREADS</span>
 </div>
 <div className="p-space-sm bg-surface-paper rounded shadow-sm min-w-0 overflow-hidden">
-<span className="block font-headline-md text-headline-md text-accent-navy font-semibold">3D</span>
-<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">Microstructures</span>
+<span className="block font-headline-md text-headline-md text-accent-navy font-semibold">MATERIAL</span>
+<span className="block font-label-sm text-label-sm text-text-muted mt-1 uppercase tracking-wide">PASSPORTS / FINGERPRINTS</span>
 </div>
 </div>
 {/* Actions */}
@@ -80,11 +80,11 @@ function Index() {
 <div className="lg:col-span-5 flex flex-col space-y-space-xs">
 <div className="p-space-xs bg-surface-paper rounded shadow-sm">
 <div className="overflow-hidden rounded bg-surface-subtle">
-<img alt="DMM Group Overview - Multi-scale constitutive modelling and digital thread architecture" className="w-full h-auto object-cover hover:scale-[1.01] transition-transform duration-300" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp" />
+<img alt="DMM Group Overview - Multi-scale constitutive modelling and digital thread architecture" className="w-full h-auto object-cover hover:scale-[1.01] transition-transform duration-300" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp=s0" />
 </div>
 <div className="p-space-sm bg-surface-paper">
 <div className="flex items-center justify-between mb-1">
-<span className="font-code-notation text-code-notation text-accent-cobalt uppercase tracking-widest font-semibold">Fig 1.0 • Lab Foundation</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt uppercase tracking-widest font-semibold">Lab Foundation</span>
 <span className="font-label-sm text-label-sm text-text-muted">Multi-Scale Digital Thread</span>
 </div>
 <p className="font-body-sm text-body-sm text-text-secondary leading-snug">
@@ -140,7 +140,7 @@ function Index() {
               Development of high-fidelity numerical representations for extreme hot-deformation processes including hammer forging and multi-pass ring rolling. Captures dynamic recrystallization kinetics, localized friction heating, and real-time thermo-mechanical load response.
             </p>
 <div className="pt-space-xs">
-<img alt="Hammer Forging Digital Twin finite element temperature and strain evolution" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp" />
+<img alt="Hammer Forging Digital Twin finite element temperature and strain evolution" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp=s0" />
 </div>
 </div>
 <div className="px-space-lg py-space-sm bg-surface-subtle flex items-center justify-between">
@@ -162,8 +162,8 @@ function Index() {
               Serial sectioning, 3D grain reconstruction, and non-local crystal plasticity finite element (CPFE) frameworks. Investigating twin nucleation criteria, stored energy density gradients, and crystallographic misorientation thresholds in hexagonal close-packed (HCP) alloys.
             </p>
 <div className="pt-space-xs grid grid-cols-2 gap-space-xs">
-<img alt="Magnesium AZ31 Twin Nucleation Crystal Plasticity Graphical Abstract" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmnz_q3_VCc7T7Wi9fKROyUo-G1Up9KzmPNK92bml3gqM5zBLs-I8mMWZCdhsTyQkgPCMzJ_txyHdLmlD5rw0AV3uifCnWqRBz58cBrwGpRyDOV1dHUu1rSWq-w-bqbH6sfvU79ZmHZcky9i07bAl-TiWQ6n_xr7DxDCmd-r2-_E_-KsRxCE599y7a1WT1QUJmAP4O-IZD4JcVX6Bi-Yyc5srAhnBj1qmA8GsapF80j_Q3db-dETjuFWmMkAygPAFT" />
-<img alt="Twin nucleation 3D microstructures serial sectioning" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDWnkI5PDltkoO5RtKwIwvYNnJ0-IOpR60zsD7-XUaFRiVAQ51yjMefWEKvoMiYOVTPRsJd-rXV_5LQRsbnskjIb61jNVD90iunUPIOafwxK90ElqoST30D693HYWrHz8jjkUeOOFMAvpyQjIMCyJl5TmHx9pGb4B9sSspH8J7sU02uH_g9juE1rjFoSVa22rn1Ts8FeFpv_m7S2cRk7fsUr9EnPJR3poYKD9jk9uSBKv34aIsMr9vIvbcHX7lHyNRr" />
+<img alt="Magnesium AZ31 Twin Nucleation Crystal Plasticity Graphical Abstract" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmnz_q3_VCc7T7Wi9fKROyUo-G1Up9KzmPNK92bml3gqM5zBLs-I8mMWZCdhsTyQkgPCMzJ_txyHdLmlD5rw0AV3uifCnWqRBz58cBrwGpRyDOV1dHUu1rSWq-w-bqbH6sfvU79ZmHZcky9i07bAl-TiWQ6n_xr7DxDCmd-r2-_E_-KsRxCE599y7a1WT1QUJmAP4O-IZD4JcVX6Bi-Yyc5srAhnBj1qmA8GsapF80j_Q3db-dETjuFWmMkAygPAFT=s0" />
+<img alt="Twin nucleation 3D microstructures serial sectioning" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDWnkI5PDltkoO5RtKwIwvYNnJ0-IOpR60zsD7-XUaFRiVAQ51yjMefWEKvoMiYOVTPRsJd-rXV_5LQRsbnskjIb61jNVD90iunUPIOafwxK90ElqoST30D693HYWrHz8jjkUeOOFMAvpyQjIMCyJl5TmHx9pGb4B9sSspH8J7sU02uH_g9juE1rjFoSVa22rn1Ts8FeFpv_m7S2cRk7fsUr9EnPJR3poYKD9jk9uSBKv34aIsMr9vIvbcHX7lHyNRr=s0" />
 </div>
 </div>
 <div className="px-space-lg py-space-sm bg-surface-subtle flex items-center justify-between">
@@ -185,7 +185,7 @@ function Index() {
               Resolving dislocation density evolution at microstructural discontinuities. Using high-resolution electron backscatter diffraction (HR-EBSD) coupled with digital image correlation (DIC) to evaluate Nye dislocation tensor tensors and formulate slip-system-specific damage indicators.
             </p>
 <div className="pt-space-xs">
-<img alt="GND damage indicator graphical abstract showcasing Nye tensor and slip system strains" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBq7N-jIHvbGG1dXmcqoqQ4sKVis1W0eoWioG9T3knj4EqBPPE4x6u5B06u6SRePwn_rXDV4VE8joQUrEIjWN-ps8YKEGfS7vB2gIL0aAQO8SYZZOeWgKcmwTAEVxqbr7o7Jq5wL4cjGFehcaatdZ0CdZ_jSHklmUGLmuj8y6f2M_8n45EGC9Ms1Daa_j0tFUia1usgUVfTsPxWPdwQggJQ206ju0mUuaU8QcJVyybWSmjbKXHLob4kyLMhc2F8xR3n" />
+<img alt="GND damage indicator graphical abstract showcasing Nye tensor and slip system strains" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBq7N-jIHvbGG1dXmcqoqQ4sKVis1W0eoWioG9T3knj4EqBPPE4x6u5B06u6SRePwn_rXDV4VE8joQUrEIjWN-ps8YKEGfS7vB2gIL0aAQO8SYZZOeWgKcmwTAEVxqbr7o7Jq5wL4cjGFehcaatdZ0CdZ_jSHklmUGLmuj8y6f2M_8n45EGC9Ms1Daa_j0tFUia1usgUVfTsPxWPdwQggJQ206ju0mUuaU8QcJVyybWSmjbKXHLob4kyLMhc2F8xR3n=s0" />
 </div>
 </div>
 <div className="px-space-lg py-space-sm bg-surface-subtle flex items-center justify-between">
@@ -207,8 +207,8 @@ function Index() {
               Formulation of internal state variable models for hot deformation, dynamic recovery, and static/meta-dynamic recrystallization. Experimental heat-treatment protocols resolving prior austenite grain boundaries, texture evolution, and crystallographic pole figures.
             </p>
 <div className="pt-space-xs grid grid-cols-2 gap-space-xs">
-<img alt="Hot deformation constitutive model graph and grain structure" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkKzrXmnsQQO3lsjF4Jtodvi2XIfD2KnVgqgqSZyCe3obtaY0UBI9rK1rzdVWR9vijSF-EhFoFzNYKP1a5Cu86pnR-jUjom7t2LNtCq3KZgyfa0hV9-iStjOGCA-l-UleZc8z9omGlaeIDp9A5PrhrYaB1buGUM8U56yAqVHHt25pw4PNFqDHTH6gHnKdjFpuVSIDmHucdW_lwzHTGWE-LLChI4GukBJU4BTk_rMuIOZ2iXDLixPzBNylJt40oxvFR" />
-<img alt="Austenite grain heat treatment and pole figures" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBqPNWCwBKd3hT3_jkFQupUVwxAisa1n1zomxv0XgQ5VD4JzMlSSuarP2wVAy3CRpYJ2MvwCN_d5BX4f7ravHX2c55MP_EDGHlEd10-4uBOCKCnI_OsEsw52grKuUM72WuJh40YvW-oRDvijs7paB9WhCzc6WCwZDrvKxfUATfLzcEprLRmMjePA5g5nVtUPgMXtdazEIREFKpwpGdR1gNvuDWrztSqPMPAYmZ5YrFuWBi83id9D2O1Br-VR-NRh1lB" />
+<img alt="Hot deformation constitutive model graph and grain structure" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkKzrXmnsQQO3lsjF4Jtodvi2XIfD2KnVgqgqSZyCe3obtaY0UBI9rK1rzdVWR9vijSF-EhFoFzNYKP1a5Cu86pnR-jUjom7t2LNtCq3KZgyfa0hV9-iStjOGCA-l-UleZc8z9omGlaeIDp9A5PrhrYaB1buGUM8U56yAqVHHt25pw4PNFqDHTH6gHnKdjFpuVSIDmHucdW_lwzHTGWE-LLChI4GukBJU4BTk_rMuIOZ2iXDLixPzBNylJt40oxvFR=s0" />
+<img alt="Austenite grain heat treatment and pole figures" className="w-full h-56 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBqPNWCwBKd3hT3_jkFQupUVwxAisa1n1zomxv0XgQ5VD4JzMlSSuarP2wVAy3CRpYJ2MvwCN_d5BX4f7ravHX2c55MP_EDGHlEd10-4uBOCKCnI_OsEsw52grKuUM72WuJh40YvW-oRDvijs7paB9WhCzc6WCwZDrvKxfUATfLzcEprLRmMjePA5g5nVtUPgMXtdazEIREFKpwpGdR1gNvuDWrztSqPMPAYmZ5YrFuWBi83id9D2O1Br-VR-NRh1lB=s0" />
 </div>
 </div>
 <div className="px-space-lg py-space-sm bg-surface-subtle flex items-center justify-between">
@@ -236,11 +236,11 @@ function Index() {
 {/* Abstract Card 1 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="Hammer Forging Digital Twin Graphical Abstract" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp" />
+<img alt="Hammer Forging Digital Twin Graphical Abstract" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDGDhGsPbkNNCSqgRNzv4cV-UnNsVvJMx85NCrQ2Km1T2qhXyMjg_98vEqEQjfH-dX-CS-qY9b3X-pSqIOkRd0FLg3ZaOhQnsCSB8ngLx-0G_IiPTLqMB0EHsz7IiRVwGq9ui0csvCH_SmoulN6_bny70H9l7cBoXB6MlVxizC0H2MbxsWJ7JY-Fl_6iY5OY_saVCnYafnuaRKvEWVuVEsVkLIlWFGU7dJWxjMnvkQHzihnSfDft_NtcAB3KIDapeGp=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-01 • PROCESS TWIN</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PROCESS TWIN</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">Hammer Forging Digital Twin</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 Finite element prediction of transient thermal gradients and accumulated effective strain profiles during heavy hammer forging operations.
@@ -255,11 +255,11 @@ function Index() {
 {/* Abstract Card 2 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="Forging strain map and microstructural flow lines Graphical Abstract" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB7nfXcsT7eXo5MOxh_OP_fDmx4XHaJLob7I6nbtf-iR2UK7rqAsK-aW3HeAMm8mAaqvMBJWuZqxqS0VLmJZ8BDr37cb6yr_dp1fWM3wxnlnOJz3hDJYGxhTJarE4-tKfEoc_62Rc8DvtyoLiYUtKgOmBTLjTDpzC7OgxYz8wLBbydeK67w7rOzEmSO98PR8OQqpvXcxEi4Iw5b-473zQyjkpXWENP6T36sUx_nFn7eTu8oj96-TvcMbdOvnm6v1Sxs" />
+<img alt="Forging strain map and microstructural flow lines Graphical Abstract" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB7nfXcsT7eXo5MOxh_OP_fDmx4XHaJLob7I6nbtf-iR2UK7rqAsK-aW3HeAMm8mAaqvMBJWuZqxqS0VLmJZ8BDr37cb6yr_dp1fWM3wxnlnOJz3hDJYGxhTJarE4-tKfEoc_62Rc8DvtyoLiYUtKgOmBTLjTDpzC7OgxYz8wLBbydeK67w7rOzEmSO98PR8OQqpvXcxEi4Iw5b-473zQyjkpXWENP6T36sUx_nFn7eTu8oj96-TvcMbdOvnm6v1Sxs=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-02 • METAL FORMING</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">METAL FORMING</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">Forging Strain Map &amp; Microstructural Flow</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 Experimental flow-line analysis and macro-etched cross-sections mapping grain flow lines against continuum shear strain distribution.
@@ -274,11 +274,11 @@ function Index() {
 {/* Abstract Card 3 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="Twin nucleation 3D microstructure serial sectioning reconstruction" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDWnkI5PDltkoO5RtKwIwvYNnJ0-IOpR60zsD7-XUaFRiVAQ51yjMefWEKvoMiYOVTPRsJd-rXV_5LQRsbnskjIb61jNVD90iunUPIOafwxK90ElqoST30D693HYWrHz8jjkUeOOFMAvpyQjIMCyJl5TmHx9pGb4B9sSspH8J7sU02uH_g9juE1rjFoSVa22rn1Ts8FeFpv_m7S2cRk7fsUr9EnPJR3poYKD9jk9uSBKv34aIsMr9vIvbcHX7lHyNRr" />
+<img alt="Twin nucleation 3D microstructure serial sectioning reconstruction" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDWnkI5PDltkoO5RtKwIwvYNnJ0-IOpR60zsD7-XUaFRiVAQ51yjMefWEKvoMiYOVTPRsJd-rXV_5LQRsbnskjIb61jNVD90iunUPIOafwxK90ElqoST30D693HYWrHz8jjkUeOOFMAvpyQjIMCyJl5TmHx9pGb4B9sSspH8J7sU02uH_g9juE1rjFoSVa22rn1Ts8FeFpv_m7S2cRk7fsUr9EnPJR3poYKD9jk9uSBKv34aIsMr9vIvbcHX7lHyNRr=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-03 • CRYSTAL PLASTICITY</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">CRYSTAL PLASTICITY</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">Twin Nucleation 3D Microstructure</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 FIB-SEM serial sectioning and full 3D polycrystal reconstruction investigating the stress state at grain boundaries triggering extension twin variants.
@@ -293,11 +293,11 @@ function Index() {
 {/* Abstract Card 4 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="Hot deformation constitutive model graph by S Krishna Narayan" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkKzrXmnsQQO3lsjF4Jtodvi2XIfD2KnVgqgqSZyCe3obtaY0UBI9rK1rzdVWR9vijSF-EhFoFzNYKP1a5Cu86pnR-jUjom7t2LNtCq3KZgyfa0hV9-iStjOGCA-l-UleZc8z9omGlaeIDp9A5PrhrYaB1buGUM8U56yAqVHHt25pw4PNFqDHTH6gHnKdjFpuVSIDmHucdW_lwzHTGWE-LLChI4GukBJU4BTk_rMuIOZ2iXDLixPzBNylJt40oxvFR" />
+<img alt="Hot deformation constitutive model graph by S Krishna Narayan" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCkKzrXmnsQQO3lsjF4Jtodvi2XIfD2KnVgqgqSZyCe3obtaY0UBI9rK1rzdVWR9vijSF-EhFoFzNYKP1a5Cu86pnR-jUjom7t2LNtCq3KZgyfa0hV9-iStjOGCA-l-UleZc8z9omGlaeIDp9A5PrhrYaB1buGUM8U56yAqVHHt25pw4PNFqDHTH6gHnKdjFpuVSIDmHucdW_lwzHTGWE-LLChI4GukBJU4BTk_rMuIOZ2iXDLixPzBNylJt40oxvFR=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-04 • CONSTITUTIVE</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">CONSTITUTIVE</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">Hot Deformation Constitutive Model</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 Internal state variable formulations capturing work hardening and dynamic recrystallization (DRX) softens across temperature and strain-rate domains.
@@ -312,11 +312,11 @@ function Index() {
 {/* Abstract Card 5 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="Austenite grain heat treatment and pole figures by Ebin Shibu James" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBqPNWCwBKd3hT3_jkFQupUVwxAisa1n1zomxv0XgQ5VD4JzMlSSuarP2wVAy3CRpYJ2MvwCN_d5BX4f7ravHX2c55MP_EDGHlEd10-4uBOCKCnI_OsEsw52grKuUM72WuJh40YvW-oRDvijs7paB9WhCzc6WCwZDrvKxfUATfLzcEprLRmMjePA5g5nVtUPgMXtdazEIREFKpwpGdR1gNvuDWrztSqPMPAYmZ5YrFuWBi83id9D2O1Br-VR-NRh1lB" />
+<img alt="Austenite grain heat treatment and pole figures by Ebin Shibu James" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBqPNWCwBKd3hT3_jkFQupUVwxAisa1n1zomxv0XgQ5VD4JzMlSSuarP2wVAy3CRpYJ2MvwCN_d5BX4f7ravHX2c55MP_EDGHlEd10-4uBOCKCnI_OsEsw52grKuUM72WuJh40YvW-oRDvijs7paB9WhCzc6WCwZDrvKxfUATfLzcEprLRmMjePA5g5nVtUPgMXtdazEIREFKpwpGdR1gNvuDWrztSqPMPAYmZ5YrFuWBi83id9D2O1Br-VR-NRh1lB=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-05 • METALLURGY</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">METALLURGY</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">Austenite Grain Heat Treatment</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 Reconstruction of parent austenite grains from room-temperature martensite/bainite crystallographic orientations and inverse pole figure maps.
@@ -331,11 +331,11 @@ function Index() {
 {/* Abstract Card 6 */}
 <div className="bg-surface-paper rounded shadow-sm hover:shadow-md transition-shadow overflow-hidden flex flex-col">
 <div className="p-space-xs bg-surface-paper">
-<img alt="GND-Mediated Damage Indicator at Individual Slip Systems" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBq7N-jIHvbGG1dXmcqoqQ4sKVis1W0eoWioG9T3knj4EqBPPE4x6u5B06u6SRePwn_rXDV4VE8joQUrEIjWN-ps8YKEGfS7vB2gIL0aAQO8SYZZOeWgKcmwTAEVxqbr7o7Jq5wL4cjGFehcaatdZ0CdZ_jSHklmUGLmuj8y6f2M_8n45EGC9Ms1Daa_j0tFUia1usgUVfTsPxWPdwQggJQ206ju0mUuaU8QcJVyybWSmjbKXHLob4kyLMhc2F8xR3n" />
+<img alt="GND-Mediated Damage Indicator at Individual Slip Systems" className="w-full h-48 object-cover rounded bg-surface-subtle" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBq7N-jIHvbGG1dXmcqoqQ4sKVis1W0eoWioG9T3knj4EqBPPE4x6u5B06u6SRePwn_rXDV4VE8joQUrEIjWN-ps8YKEGfS7vB2gIL0aAQO8SYZZOeWgKcmwTAEVxqbr7o7Jq5wL4cjGFehcaatdZ0CdZ_jSHklmUGLmuj8y6f2M_8n45EGC9Ms1Daa_j0tFUia1usgUVfTsPxWPdwQggJQ206ju0mUuaU8QcJVyybWSmjbKXHLob4kyLMhc2F8xR3n=s0" />
 </div>
 <div className="p-space-md flex-1 flex flex-col justify-between">
 <div>
-<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">PLATE GA-06 • DAMAGE MECHANICS</span>
+<span className="font-code-notation text-code-notation text-accent-cobalt block mb-1">DAMAGE MECHANICS</span>
 <h4 className="font-headline-sm text-headline-sm text-primary mb-space-xs leading-snug">GND-Mediated Damage Indicator</h4>
 <p className="font-body-sm text-body-sm text-text-secondary mb-space-sm">
                 Resolving dislocation-dense boundary interfaces and crystallographic shear localization predicting microcrack onset before macroscopic fracture.
